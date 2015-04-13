@@ -528,6 +528,14 @@
 			}
 		},
 		{
+			"file": "sun/bokeh.md",
+			"settings":
+			{
+				"buffer_size": 484,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "fri/build_a_brain.py",
 			"settings":
 			{
@@ -637,7 +645,8 @@
 	"expanded_folders":
 	[
 		"/home/faris/workspace/projects/pycon2015",
-		"/home/faris/workspace/projects/pycon2015/fri"
+		"/home/faris/workspace/projects/pycon2015/fri",
+		"/home/faris/workspace/projects/pycon2015/sun"
 	],
 	"file_history":
 	[
@@ -996,7 +1005,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -1012,8 +1021,36 @@
 						"selection":
 						[
 							[
-								149,
-								149
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sun/bokeh.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								483,
+								483
 							]
 						],
 						"settings":
@@ -1028,7 +1065,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "fri/build_a_brain.py",
 					"semi_transient": false,
 					"settings":
@@ -1052,7 +1089,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1121,7 +1158,7 @@
 		[
 			[
 				"",
-				"~/workspace/projects/zaniac/zaniac.sublime-project"
+				"~/workspace/projects/saucesmere/saucesmere.sublime-project"
 			],
 			[
 				"slc",
